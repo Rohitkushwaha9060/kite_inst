@@ -1,0 +1,11 @@
+{
+  "name": "@repo/zustand-store",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "index.ts"
+  ],
+  "dependencies": {
+    "zustand": "^4.5.4"
+  }
+}
